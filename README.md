@@ -1,4 +1,5 @@
 # FractionLayer — Security Token Fractionalization Platform
+*Updated January 2, 2026*
 
 **Happy New Year everyone! 🎉**  
 Welcome to 2026 with a new technical challenge! 🚀

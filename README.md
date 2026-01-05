@@ -63,9 +63,7 @@ For the **original architecture overview, requirements mapping and 02-Jan-2026 d
 
 ---
 
-README-02Jan2026.md
-
-**Buon Epifania to the Italians, Happy Epiphany to the world!**  
-May every bug be revealed – and every feature shine like a star.
+**Buona Epifania to the Italians, Happy Epiphany to the world!**  
+⭐ May every bug be revealed – and every feature shine like a star. ⭐
 
 *Milan, 5 January 2026 – Edoardo*

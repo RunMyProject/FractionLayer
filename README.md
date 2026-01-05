@@ -59,9 +59,11 @@ Open http://localhost:3000 – **dark-mode magic** in your browser.
 
 ## 📦 Previous technical documents
 For the **original architecture overview, requirements mapping and 02-Jan-2026 deep-dive**, see:  
-[README-02Jan2026.md](docs/README-02Jan2026.md)
+[README-02Jan2026.md](docs/archive/README-02Jan2026.md)
 
 ---
+
+README-02Jan2026.md
 
 **Buon Epifania to the Italians, Happy Epiphany to the world!**  
 May every bug be revealed – and every feature shine like a star.
